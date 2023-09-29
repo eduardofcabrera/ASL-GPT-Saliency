@@ -13,3 +13,4 @@ jsonschema
 transformers
 allennlp
 allennlp_models
+plotly
