@@ -15,6 +15,3 @@ sphinx
 sphinx-rtd-theme
 flask
 jsonschema
-opencv-python
-transformers
-allennlp

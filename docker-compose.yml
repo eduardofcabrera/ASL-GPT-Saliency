@@ -2,7 +2,7 @@ services:
   inteligentes:
     build: ./
     tty: true
-    container_name: NLP_kaggle
+    container_name: ASL-GPT-Saliency
     volumes:
       - .:/usr/src/code
     working_dir: /usr/src/code/
